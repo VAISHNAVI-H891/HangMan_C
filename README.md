@@ -43,17 +43,17 @@ If incorrect:
 🎨 Hangman figure updates
 
 3️⃣ Game Result
-🎉 Player wins if the word is guessed fully
-💀 Player loses when all attempts reach zero
-Final word is displayed
+#🎉 Player wins if the word is guessed fully
+#💀 Player loses when all attempts reach zero
+#Final word is displayed
 
 🧠 Concepts Used
-Arrays and Strings
-Functions and Modular Programming
-Header Files (.h)
-Loops and Conditionals
-Dynamic Game Logic Handling
-System Calls (system("clear"))
+#Arrays and Strings
+#Functions and Modular Programming
+#Header Files (.h)
+#Loops and Conditionals
+#Dynamic Game Logic Handling
+#System Calls (system("clear"))
 
 The word has 5 letters  
 Word: _ _ _ _ _  
@@ -65,10 +65,10 @@ Guess a letter: z
 Wrong guess! Attempts left: 5  
 
 📊 Advantages
-Clear modular design
-Easy to understand and extend
-Beginner-friendly project
-Demonstrates real-world coding practices in C
+#Clear modular design
+#Easy to understand and extend
+#Beginner-friendly project
+#Demonstrates real-world coding practices in C
 
 🎯 Learning Outcomes
 Strong understanding of modular programming
