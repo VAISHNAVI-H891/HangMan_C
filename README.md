@@ -27,12 +27,12 @@ User input handling
 
 ## 🏗️ Working Principle
 
-* 1️⃣ Word Setup
+# 1️⃣ Word Setup
 * User inputs a secret word
 * Screen is cleared for secrecy
 * Word is displayed as underscores (_ _ _)
 
-* 2️⃣ Guessing Process
+# 2️⃣ Guessing Process
 * Player inputs one letter at a time
 * Program checks if the letter was already guessed
 * ⚠️ If yes → shows warning
@@ -42,12 +42,12 @@ User input handling
 * ❌ Attempts decrease
 * 🎨 Hangman figure updates
 
-* 3️⃣ Game Result
+# 3️⃣ Game Result
 * 🎉 Player wins if the word is guessed fully
 * 💀 Player loses when all attempts reach zero
 * Final word is displayed
 
-* 🧠 Concepts Used
+# 🧠 Concepts Used
 * Arrays and Strings
 * Functions and Modular Programming
 * Header Files (.h)
@@ -64,23 +64,23 @@ Correct guess!
 Guess a letter: z  
 Wrong guess! Attempts left: 5  
 
-📊 Advantages
-#Clear modular design
-#Easy to understand and extend
-#Beginner-friendly project
-#Demonstrates real-world coding practices in C
+## 📊 Advantages
+* Clear modular design
+* Easy to understand and extend
+* Beginner-friendly project
+* Demonstrates real-world coding practices in C
 
-🎯 Learning Outcomes
-Strong understanding of modular programming
-Improved logic building
-Experience with header files and multi-file projects
-Better handling of user input and validation
+## 🎯 Learning Outcomes
+* Strong understanding of modular programming
+* Improved logic building
+* Experience with header files and multi-file projects
+* Better handling of user input and validation
 
-🔮 Future Enhancements
-🔑 Random word generation instead of manual input
-🎮 Difficulty levels
-🖼️ GUI-based version
-🔊 Sound effects
+## 🔮 Future Enhancements
+* 🔑 Random word generation instead of manual input
+* 🎮 Difficulty levels
+* 🖼️ GUI-based version
+* 🔊 Sound effects
 
 👩‍💻 Author
 Vaishnavi
