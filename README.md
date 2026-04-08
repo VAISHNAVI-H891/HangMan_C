@@ -20,40 +20,40 @@ User input handling
 * 🎯 Letter-by-letter guessing
 * ❌ Tracks already guessed letters
 * 📉 Limited attempts (6 chances)
-🎨 ASCII-based hangman drawing
-📊 Real-time word progress display
-⚠️ Prevents repeated guesses
-🧩 Clean modular structure using multiple functions
+* 🎨 ASCII-based hangman drawing
+* 📊 Real-time word progress display
+* ⚠️ Prevents repeated guesses
+* 🧩 Clean modular structure using multiple functions
 
-🏗️ Working Principle
+## 🏗️ Working Principle
 
-1️⃣ Word Setup
-User inputs a secret word
-Screen is cleared for secrecy
-Word is displayed as underscores (_ _ _)
+* 1️⃣ Word Setup
+* User inputs a secret word
+* Screen is cleared for secrecy
+* Word is displayed as underscores (_ _ _)
 
-2️⃣ Guessing Process
-Player inputs one letter at a time
-Program checks if the letter was already guessed
-⚠️ If yes → shows warning
-If correct:
-✅ Letter is revealed in correct positions
-If incorrect:
-❌ Attempts decrease
-🎨 Hangman figure updates
+* 2️⃣ Guessing Process
+* Player inputs one letter at a time
+* Program checks if the letter was already guessed
+* ⚠️ If yes → shows warning
+* If correct:
+* ✅ Letter is revealed in correct positions
+* If incorrect:
+* ❌ Attempts decrease
+* 🎨 Hangman figure updates
 
-3️⃣ Game Result
-*🎉 Player wins if the word is guessed fully
-*💀 Player loses when all attempts reach zero
-*Final word is displayed
+* 3️⃣ Game Result
+* 🎉 Player wins if the word is guessed fully
+* 💀 Player loses when all attempts reach zero
+* Final word is displayed
 
-🧠 Concepts Used
-*Arrays and Strings
-*Functions and Modular Programming
-*Header Files (.h)
-*Loops and Conditionals
-*Dynamic Game Logic Handling
-*System Calls (system("clear"))
+* 🧠 Concepts Used
+* Arrays and Strings
+* Functions and Modular Programming
+* Header Files (.h)
+* Loops and Conditionals
+* Dynamic Game Logic Handling
+* System Calls (system("clear"))
 
 The word has 5 letters  
 Word: _ _ _ _ _  
