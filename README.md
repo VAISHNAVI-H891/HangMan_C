@@ -1,25 +1,25 @@
-🎯 Hangman Game in C
+## 🎯 Hangman Game in C
 
 A modular and interactive Hangman Game developed in C, where the player guesses a hidden word within a limited number of attempts. The project uses multiple source files, header files, and structured functions to maintain clean and reusable code.
 
-📌 Overview
+## 📌 Overview
 
 This is a command-line based implementation of the classic Hangman game.
 One user enters a secret word, and the player tries to guess it letter by letter. Each incorrect guess results in the progressive drawing of the hangman figure.
 
-The project demonstrates:
+## The project demonstrates:
 
 Modular programming using header files
 String manipulation and arrays
 Game logic implementation
 User input handling
 
-⚙️ Key Features
+## ⚙️ Key Features
 
-🔤 Hidden word input system
-🎯 Letter-by-letter guessing
-❌ Tracks already guessed letters
-📉 Limited attempts (6 chances)
+* 🔤 Hidden word input system
+* 🎯 Letter-by-letter guessing
+* ❌ Tracks already guessed letters
+* 📉 Limited attempts (6 chances)
 🎨 ASCII-based hangman drawing
 📊 Real-time word progress display
 ⚠️ Prevents repeated guesses
